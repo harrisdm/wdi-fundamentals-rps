@@ -101,5 +101,4 @@ function playTo(limit) {
         if (result === "computer") computerWins++;
     }
     return [playerWins, computerWins];
-
 }
